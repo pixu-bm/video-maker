@@ -1,2 +1,9 @@
-# video-maker
-Robôs que criam conteúdo para o Youtube.
+# Credentials Format
+
+## Algorithmia
+
+File: `algorithmia.json`
+
+```
+	"apiKey": "simijiTeegQk6mw3RKBR4gWdSIu1"
+```
