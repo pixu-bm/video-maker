@@ -5,8 +5,8 @@ const robots = {
     image: require('./robots/image.js')
 }
 async function start(){
-    // robots.input();
-    // await robots.text();
+    robots.input();
+    await robots.text();
     await robots.image();
 
     const content = robots.state.load();
